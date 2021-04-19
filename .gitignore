@@ -1,0 +1,8 @@
+venv/*
+logs/*
+models/*
+.git/*
+.ipynb_checkpoints/*
+.idea/*
+Untitled.ipynb
+*.pyc
